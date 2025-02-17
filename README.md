@@ -15,4 +15,4 @@ Si el creador original desea que este repositorio sea eliminado, por favor contÃ
 ## Notas
 - Video de Arley4d: [YouTube](https://youtu.be/opv4r4MnqvY?si=h4-si_H1d4CMevtb)
 - El emulador se encuentra en la secciÃ³n **Releases** del repositorio.
-- Para guardar los juegos permanentemente deben ir a **MAIN MENU > OTHER SETTINGS > ALTERNATIVE EMULATORS > *consola* > *emulador* (FOREVER)**.
+- Para guardar los juegos permanentemente deben seleccionar **MAIN MENU > OTHER SETTINGS > ALTERNATIVE EMULATORS > *consola* > *emulador* (FOREVER)**.
